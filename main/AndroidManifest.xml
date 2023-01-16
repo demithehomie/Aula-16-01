@@ -1,0 +1,11 @@
+<application>
+
+<!-- Other tags -->
+
+<meta-data
+        android:name="com.google.android.geo.API_KEY"
+        android:value="AIzaSyBoaBNykpDQIp0DMeyJ8LUt6nQ5kDsjXpQ"/>
+
+<!-- Other tags -->
+
+</application>
